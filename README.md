@@ -15,12 +15,12 @@ Primeiro desafio de Front-End do Bootcamp XP Inc. - Full Stack Developer na plat
 
 O desafio foi criar uma calculadora utilizando do React.
 
-![Badge](https://img.shields.io/github/last-commit/Epiled/trilha-react-desafio01-calculadora?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/trilha-react-desafio01-calculadora?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/count/Epiled/trilha-react-desafio01-calculadora?style=for-the-badge)
+![Badge](https://img.shields.io/github/last-commit/Epiled/trilha-react-desafio-01-calculadora?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/code-size/Epiled/trilha-react-desafio-01-calculadora?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/count/Epiled/trilha-react-desafio-01-calculadora?style=for-the-badge)
 ![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
-![Bagde](https://img.shields.io/github/v/release/Epiled/trilha-react-desafio01-calculadora?style=for-the-badge)
-![Bagde](https://img.shields.io/github/license/Epiled/trilha-react-desafio01-calculadora?style=for-the-badge)
+![Bagde](https://img.shields.io/github/v/release/Epiled/trilha-react-desafio-01-calculadora?style=for-the-badge)
+![Bagde](https://img.shields.io/github/license/Epiled/trilha-react-desafio-01-calculadora?style=for-the-badge)
 
 ![Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
